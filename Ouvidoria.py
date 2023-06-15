@@ -1,4 +1,3 @@
-
 dados = []
 opcao = 1
 reclamacao2 = []
